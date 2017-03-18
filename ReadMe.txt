@@ -5,6 +5,8 @@ To build this project use
 
     mvn install
    mvn install
+      mvn install
+
 To run this project with Maven use
 
     mvn camel:run
